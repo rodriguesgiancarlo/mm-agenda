@@ -1,6 +1,8 @@
 # MM Agenda
 
-Projeto de API em NodeJS e cliente desenvolvido com ReactJS para gerenciar as informações de um time (nome, e-mail e telefone). Principais funcionalidades:
+Projeto de API em NodeJS e cliente desenvolvido com ReactJS para gerenciar as informações de um time (nome, e-mail e telefone).
+
+Funcionalidades:
 
 - Adicionar membros;
 - Alterar membros;
@@ -14,6 +16,11 @@ Projeto de API em NodeJS e cliente desenvolvido com ReactJS para gerenciar as in
 3. [Executar o projeto](#executar-o-projeto)
 
 <br />
+<br>
+
+![Alt text](images/mm-agenda.png?raw=true "MM Agenda")
+
+<br>
 
 ## Arquitetura
 
