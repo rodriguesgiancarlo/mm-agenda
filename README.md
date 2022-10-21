@@ -66,4 +66,4 @@ Depois de instaladas as dependências basta executar o projeto.
 
 ## Executar o projeto
 
-Para executar o projeto é necessário acessar novamente cada diretório e executar o comando `npm run start` **dentro de cada um deles** (isso pode exigir dois terminais em execução, dependendo do seu sistema operacional). Estes comandos vão iniciar a API do servidor, a qual responderá às requisições enviadas a [http://localhost:8080/api](http://localhost:8080/api), e o cliente, o qual deverá ser acessado no seu navegador com o seguinte endereço: [http://localhost:3000](http://localhost:3000).
+Para executar o projeto é necessário acessar novamente cada diretório e executar o comando `npm run start` **dentro de cada um deles** (isso vai exigir dois terminais em execução, cuidado para não encerrá-los). Estes comandos vão iniciar a API do servidor, a qual responderá às requisições enviadas a [http://localhost:8080/api](http://localhost:8080/api), e o cliente, o qual deverá ser acessado no seu navegador com o seguinte endereço: [http://localhost:3000](http://localhost:3000).
